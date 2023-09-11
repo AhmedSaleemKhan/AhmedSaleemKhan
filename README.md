@@ -15,9 +15,8 @@
 <h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=32&duration=4999&pause=1007&color=BDC3CA&background=25FFE000&width=435&lines=Hey!+It's+Ahmed+Saleem+here!;Love+To+build+Softwares+of+your+thoughts" /></a></h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  ---
+
 
 ### 👨‍🦱: About Myself :
   I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
