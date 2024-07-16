@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/ahmed-saleem-2177bb242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~011bb1ff7bd6c29253">
+<!--   <a href="https://www.upwork.com/freelancers/~011bb1ff7bd6c29253"> -->
     <img src="https://img.shields.io/badge/UpWork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100021976141028">
