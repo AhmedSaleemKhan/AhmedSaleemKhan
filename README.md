@@ -21,11 +21,11 @@
 ### 👨‍🦱: About Myself :
   I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
   -
-  - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications & desktop applications.
+  - :telescope: I’m working as a Senior Golang Developer and contributing to backend for building web applications & problem solutions.
 
-- :seedling: Expertise in Golang including different Go Frameworks & Cloud Services like AWS and many more other technologies.
+- :seedling: Expertise in Golang including different Go Frameworks & Cloud Services , Docker , Kubernetes  and many more other technologies.
 
-- :zap: Developed many projects in different computing languages.
+- :zap: Developed many projects in different computing languages. ( Mailavail , Findr , Go-CAS , AWS-Backup System Organizational Portal etc..)
 
 - :mailbox:How to reach me: 
     - Via Whatsapp: +92 331 8360836
